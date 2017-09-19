@@ -10,7 +10,8 @@
     "url": "https://github.com/taskrabbit/react-native-parsed-text/issues"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "repository": {
     "type": "git",
