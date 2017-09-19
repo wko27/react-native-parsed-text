@@ -9,6 +9,9 @@
   "bugs": {
     "url": "https://github.com/taskrabbit/react-native-parsed-text/issues"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/taskrabbit/react-native-parsed-text.git"
